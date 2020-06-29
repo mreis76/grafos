@@ -8,7 +8,7 @@ Estudo de algoritmos de grafos
 ![alt text](https://github.com/mreis76/grafos/blob/master/grafo2.png?raw=true)
 
 
-A utilização do programa é intuitiva, sendo simples de usar:
+A utilização do programa é intuitiva, sendo simples de usar:[br/]
 •	Ao se clicar em um local vazio, cria-se um vértice;
 •	Ao se clicar em um vértice, seleciona-o.
   o	Alguns algoritmos utilizam o vértice selecionado, como por exemplo, as buscas em largura e em profundidade;
